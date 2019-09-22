@@ -1,4 +1,4 @@
-"# WaveFunctionCollapse"   
+# WaveFunctionCollapse  
 
 https://github.com/mxgmn/WaveFunctionCollapse
 <p align="center">
