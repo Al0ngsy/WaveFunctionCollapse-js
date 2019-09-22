@@ -2,7 +2,7 @@
 
 https://github.com/mxgmn/WaveFunctionCollapse
 <p align="center">
-![](test4.png)  
+<img src="test4.png" width=50 /> 
 </p>
 
 <p align="center">
