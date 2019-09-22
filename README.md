@@ -1,10 +1,17 @@
 "# WaveFunctionCollapse"   
 
 https://github.com/mxgmn/WaveFunctionCollapse
-
+<p align="center">
 ![](test4.png)  
-         ↓  
+</p>
+
+<p align="center">
+↓  
+</p> 
+
+<p align="center">
 <img src="test4Model.png" width=150 />
+</p>
 
 - Call img_url_to_data("test#.png", start) in the browser console, with # = {1,2,3,4}  
 
